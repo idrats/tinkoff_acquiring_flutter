@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - tinkoff_acquiring (0.0.1):
+    - Flutter
+    - TinkoffASDKCore
+    - TinkoffASDKUI
+  - TinkoffASDKCore (2.0.1)
+  - TinkoffASDKUI (2.0.1):
+    - TinkoffASDKCore
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - tinkoff_acquiring (from `.symlinks/plugins/tinkoff_acquiring/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TinkoffASDKCore
+    - TinkoffASDKUI
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  tinkoff_acquiring:
+    :path: ".symlinks/plugins/tinkoff_acquiring/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  tinkoff_acquiring: 586de9486ed01563f42152baf91cebfa79a7fadb
+  TinkoffASDKCore: 509477d79be6b9ec7f663d55da9565269c09ac6d
+  TinkoffASDKUI: afbb87d6e17ea3d860925b72682a8ca5a1003e73
+
+PODFILE CHECKSUM: 03ca1bf1c64dc8b19c6e4677c8bd060771e18859
+
+COCOAPODS: 1.9.3
